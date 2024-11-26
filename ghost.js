@@ -273,7 +273,7 @@ class Ghost {
             0,
             2 * Math.PI
         );
-        canvasContext.stroke();
+        //canvasContext.stroke();
     }
 }
 
